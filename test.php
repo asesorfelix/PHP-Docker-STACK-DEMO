@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Gran Canaria, pronto nos vemos!";
+echo "Hello GC, pronto nos vemos!";
